@@ -1,0 +1,8 @@
+- Verein / Jogi
+- History, first repaircafe
+- our repair cafe
+- what went wrong, what did we change
+- results of the repaircafe movement
+- museum Schwyz
+- resources / links
+- Anekdoten , Nahen 
