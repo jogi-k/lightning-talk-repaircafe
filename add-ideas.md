@@ -5,4 +5,5 @@
 - results of the repaircafe movement
 - museum Schwyz
 - resources / links
+- fairphone , coffee-machine philips
 - Anekdoten , Nahen 
