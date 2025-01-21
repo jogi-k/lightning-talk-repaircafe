@@ -7,3 +7,5 @@
 - resources / links
 - fairphone , coffee-machine philips
 - Anekdoten , Nahen 
+- Repairmonth Oct , pictures : https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
+
