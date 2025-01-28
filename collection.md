@@ -16,6 +16,32 @@ right to repair EU
 
 https://www.europarl.europa.eu/news/en/press-room/20240419IPR20590/right-to-repair-making-repair-easier-and-more-appealing-to-consumers
 
+lex  : https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng
+
+Außerdem würden 30 Millionen Tonnen Ressourcen verschwendet und 35 Millionen Tonnen Abfall verursacht.
+
+
+Monat Oktober 2024:
+- mehr als 50 Repaircafes
+- 1300 objects
+
+19. Okt 2024 : Reparatur Tag.
+
+around 70 percent
+
+see https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
+
+
+wer organisiert Repaircafes?
+
+wo finden sie statt ?
+
+
+
+https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
+
+
+
 
 
 # Ideas
