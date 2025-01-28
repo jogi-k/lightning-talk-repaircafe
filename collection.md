@@ -46,7 +46,7 @@ https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-l
 * Fairphone
 * Laptop modular
 * Kaffeemaschine, vermutlich aus obigem Video 
-* Apple Batterie 
+* Apple Batterie https://www.macrumors.com/2024/09/23/ifixit-iphone-16-teardown/
 
 
 # Ideas
