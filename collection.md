@@ -41,7 +41,12 @@ wo finden sie statt ?
 https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
 
 
+# Examples
 
+* Fairphone
+* Laptop modular
+* Kaffeemaschine, vermutlich aus obigem Video 
+* Apple Batterie 
 
 
 # Ideas
