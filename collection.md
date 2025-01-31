@@ -4,6 +4,15 @@
 
 * 15 Jahre Repaircafe.org : https://www.youtube.com/watch?v=hV0nljoAyJk
 
+* Very first Repaircafe : sunday , 18-Oct-2009, Amsterdam, Netherlands 
+
+* Source: https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
+
+* Französischer Repair-Index : https://www.economie.gouv.fr/particuliers/tout-savoir-indice-reparabilite
+
+* Seit 2021
+
+
 Konsumentenschutz 2014 das erste Repair Café der Schweiz gegründet
 
 https://www.repair-cafe.ch/wissen/informationen/
