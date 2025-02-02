@@ -1,5 +1,20 @@
 # Collection of ideas etc
 
+
+
+- Verein / Jogi
+- History, first repaircafe
+- our repair cafe
+- what went wrong, what did we change
+- results of the repaircafe movement
+- museum Schwyz
+- resources / links
+- fairphone , coffee-machine philips
+- Anekdoten , Nahen 
+- Repairmonth Oct , pictures : https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
+
+
+
 ## Links
 
 * 15 Jahre Repaircafe.org : https://www.youtube.com/watch?v=hV0nljoAyJk
@@ -19,7 +34,6 @@ https://www.ifixit.com/repairability
 * Fairphone 5 auf iFixit : https://www.ifixit.com/repairability/smartphone-repairability-scores
 
 
-Konsumentenschutz 2014 das erste Repair Café der Schweiz gegründet
 
 https://www.repair-cafe.ch/wissen/informationen/
 
