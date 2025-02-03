@@ -174,7 +174,7 @@
 
 ---
 
-### Switzerland 
+### Switzerland :  200 Repaircafes
 
 ![repair-cafes-switzerland.png](./pics/repair-cafes-switzerland.png)
 
@@ -274,7 +274,7 @@
 ## Solution 
 
 * Digitalised the process 
-* Self-Registration of guests
+* Self-Registration of guests (3 Laptops)
 * Registration-office operates Kanban-Board 
 * Dashboard for guests with estimated waiting-time
 * Kanban-Board for repairers
@@ -304,21 +304,153 @@
 
 ---
 
+# WHAT  ?
+
+---
+
+* We basically "try" everything
+* Electronics 
+* Household applicances
+* Clothes
+* Bicycles
+* Computers, Mobile Phones
+* Coffee-Machines ( I hate it...)
+* Childrens toys
+
+---
+
+# A lot of stuff:
+
+* "Main" difficulty is to open it
+
+---
+
+![Spend-time-find-out.png](./pics/Spend-time-find-out.png)
+
+---
+
+![Open_hope_no_crack.png](./pics/Open_hope_no_crack.png)
+
+---
+
+![Screwdriver long](./pics/screwdriver_extralong.jpg)
+
+---
+
 # WHY ?
 
 ---
 
+## Why are people doing this ?
+
+* They/We are nerds and
+* We like to fix stuff
+* We want to make people happy
+* We want to improve **xxx** a little
+* xxx : the world, ourselves, ... 
+* Avoid garbage
+* Environment / Sustainability 
+
+
+---
+
+# Repair-Month Oct
+
+*  2024 
+*  more than 50 Repaircafes in switzerland
+*  more than 1300 objects
+*  Around 65-70 % success
+
+
+---
  
+![statistic_oct_2024.png](./pics/statistic_oct_2024.png)
+
+---
 
 
+## Greater movement
 
-encourage guest to repair themselves
-    * with help of repairer
-* At least:
-    * guests "have" to stay
-    * Its **not** drop and come back later 
-    * Idea is to to "learn"
-    * And to say yes / no e.g. on opening ...
+* [Repairability - Guide by iFixIt](https://www.ifixit.com/repairability)
+* France :  [since 2021 Repair-Index](https://www.economie.gouv.fr/particuliers/tout-savoir-indice-reparabilite)
+* European Law 2024 : [Right to repair Press](https://www.europarl.europa.eu/news/de/press-room/20240419IPR20590/recht-auf-reparatur-reparieren-einfacher-und-attraktiver-machen)
+* European Law 2024 : [The Law itself](https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng)
+
+---
+
+![iFixIt-Repair-Index.png](./pics/iFixIt-Repair-Index.png)
+
+---
+
+## Companies 
+
+
+* Fairphone 
+* Framework Laptop
+* Philips designing Coffee-Machine
+* Even Apple : [iPhone 16 Battery removal](https://www.macrumors.com/2024/09/23/ifixit-iphone-16-teardown/)  
+* more and more are coming
+
+---
+
+![iFixt-Principle.png](./pics/iFixt-Principle.png)
+
+---
+![Fairphone_5_Repairindex.png](./pics/Fairphone_5_Repairindex.png)
+
+---
+
+![Fairphone-5-disassembled.jpg](./pics/Fairphone-5-disassembled.jpg)
+
+---
+
+![Framework-Laptop.png](./pics/Framework-Laptop.png)
+
+---
+
+# Please help !
+
+## Engage !
+
+## Visit a Repair-Cafe
+
+
+---
+
+
+![Next Repaircafe Schwyz Museum](./pics/Next-Repaircafe_Schwyz.png)
+
+---
+
+## Links 
+
+* [Repaircafe Switzerland](https://www.repair-cafe.ch/wissen/informationen/)
+* [Konsumenten-Schutz Schweiz](https://www.konsumentenschutz.ch/)
+* [Repaircafe International](https://www.repaircafe.org)
+* [iFixIt Repairability](https://www.ifixit.com/repairability)
+* [EU Right to repair](https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng)
+
+---
+
+### Resources 
+
+* This talk [git-repo sources (branch gh_pages)](https://github.com/jogi-k/lightning-talk-repaircafe/tree/gh-pages/)
+* This talk [as slides on the web](https://jogi-k.github.io/lightning-talk-repaircafe/)
+
+* Later: The slides on lightning-talk-repo
+
+
+---
+
+### The END 
+
+![Jogi](yogi_bear-head.jpg)
+
+---
+
+
+---
+
 
 ![Blog-post-on-Smartphones.png](./pics/Blog-post-on-Smartphones.png)
 
@@ -334,42 +466,6 @@ encourage guest to repair themselves
 
 ![DetailsRepairing_I.jpg](./pics/DetailsRepairing_I.jpg)
 
----
-
-![Fairphone-5-disassembled.jpg](./pics/Fairphone-5-disassembled.jpg)
-
----
-
-![Fairphone_5_Repairindex.png](./pics/Fairphone_5_Repairindex.png)
-
----
-
-
----
-
-![Framework-Laptop.png](./pics/Framework-Laptop.png)
-
----
-
-![iFixIt-Repair-Index.png](./pics/iFixIt-Repair-Index.png)
-
----
-
-![iFixt-Principle.png](./pics/iFixt-Principle.png)
-
----
-
-
----
-
-![Open_hope_no_crack.png](./pics/Open_hope_no_crack.png)
-
----
-
-
----
-
-![Programming_Kids.png](./pics/Programming_Kids.png)
 
 ---
 
@@ -389,31 +485,5 @@ encourage guest to repair themselves
 ![RemoteControl_II.jpg](./pics/RemoteControl_II.jpg)
 
 ---
-
-![RemoteControl_I.jpg](./pics/RemoteControl_I.jpg)
-
----
-
-![Spend-time-find-out.png](./pics/Spend-time-find-out.png)
-
----
-
-![statistic_oct_2024.png](./pics/statistic_oct_2024.png)
-
-
----
-
-### Resources 
-
-* This talk [git-repo sources (branch gh_pages)](https://github.com/jogi-k/lightning-talk-repaircafe/tree/gh-pages/)
-* This talk [as slides on the web](https://jogi-k.github.io/lightning-talk-repaircafe/)
-
----
-
-
-
-### The END 
-
-![Jogi](yogi_bear-head.jpg)
 
 

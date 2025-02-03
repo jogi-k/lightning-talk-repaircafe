@@ -1,4 +1,11 @@
-# Collection of ideas etc
+
+# Fun stories
+
+* Nähmaschine, Jogi näht, Handrabeitslehrerin take over
+
+
+
+# DONE
 
 
 
@@ -6,22 +13,16 @@
 - History, first repaircafe
 - our repair cafe
 - what went wrong, what did we change
-- results of the repaircafe movement
-- museum Schwyz
-- resources / links
-- fairphone , coffee-machine philips
-- Anekdoten , Nahen 
-- Repairmonth Oct , pictures : https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
-
-
-
-## Links
 
 * 15 Jahre Repaircafe.org : https://www.youtube.com/watch?v=hV0nljoAyJk
 
 * Very first Repaircafe : sunday , 18-Oct-2009, Amsterdam, Netherlands 
 
 * Source: https://en.wikipedia.org/wiki/Repair_Caf%C3%A9
+
+* Entstehung des Dash-Boards
+
+
 
 * Französischer Repair-Index : https://www.economie.gouv.fr/particuliers/tout-savoir-indice-reparabilite
 
@@ -35,7 +36,6 @@ https://www.ifixit.com/repairability
 
 
 
-https://www.repair-cafe.ch/wissen/informationen/
 
 in der Schweiz haben sich mittlerweile über 200 Repair Cafés gebildet
 
@@ -82,9 +82,18 @@ https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-l
 
 * Link to iFixIt
 
-# Fun stories
+# Collection of ideas etc
 
-* Nähmaschine, Jogi näht, Handrabeitslehrerin take over
-* Entstehung des Dash-Boards
 
+
+- results of the repaircafe movement
+- museum Schwyz
+- resources / links
+- fairphone , coffee-machine philips
+- Anekdoten , Nahen 
+- Repairmonth Oct , pictures : https://www.konsumentenschutz.ch/medienmitteilungen/fast-70-aller-gegenstaende-lassen-sich-reparieren/
+
+
+
+## Links
 
