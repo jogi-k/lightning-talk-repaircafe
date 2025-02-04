@@ -69,11 +69,20 @@
 
 ---
 
-# History of Repair Cafe
+# Topics
 
+* History 
+* Where ?
+* How ? 
+* What ?
+* Why ?
+* Conclusion 
 
 ---
 
+# History
+
+---
 
 ## First Repair Cafe
 
@@ -156,6 +165,10 @@
 
 ---
 
+# Where ?
+
+---
+
 ### Innerschwyz
 
 ![repaircafes-around-rotkreuz.png](./pics/repaircafes-around-rotkreuz.png)
@@ -217,7 +230,7 @@
 * We have a lot of tools, but also:
 * Repairers bring their tools
     * Some a pocket-knife 
-    * some a car w/ electronic equipment
+    * some a car full of electronic equipment
 * While guests waiting: drink coffee, eat cake
 * we try to limit the time to 30-40 mins
 
@@ -281,7 +294,7 @@
     * showing them the queue-length
     * "forcing" them to stop latest after 30-40 mins
 * Web-based, [open-source](https://github.com/jogi-k/repaircafe) (Python, Flask, Bootstrap...)
-* A lot of improvement-ideas ...
+* A lot of improvement-ideas (as soon as I have time) ...
 
 ---
 
@@ -304,7 +317,7 @@
 
 ---
 
-# WHAT  ?
+# WHAT ?
 
 ---
 
@@ -316,6 +329,40 @@
 * Computers, Mobile Phones
 * Coffee-Machines ( I hate it...)
 * Childrens toys
+
+---
+
+![Image_20241019_180455_115.jpg](./pics/Image_20241019_180455_115.jpg)
+
+---
+
+![Image_20241019_180455_172.jpg](./pics/Image_20241019_180455_172.jpg)
+
+---
+
+![Image_20241019_180455_242.jpg](./pics/Image_20241019_180455_242.jpg)
+
+---
+
+![Image_20241019_180455_312.jpg](./pics/Image_20241019_180455_312.jpg)
+
+---
+
+![Image_20241019_180455_385.jpg](./pics/Image_20241019_180455_385.jpg)
+
+
+---
+
+![DetailsRepairing_III.jpg](./pics/DetailsRepairing_III.jpg)
+
+---
+
+![DetailsRepairing_II.jpg](./pics/DetailsRepairing_II.jpg)
+
+
+---
+
+![RemoteControl_III.jpg](./pics/RemoteControl_III.jpg)
 
 ---
 
@@ -363,8 +410,12 @@
 
 
 ---
+
+
  
 ![statistic_oct_2024.png](./pics/statistic_oct_2024.png)
+
+
 
 ---
 
@@ -395,7 +446,10 @@
 
 ![iFixt-Principle.png](./pics/iFixt-Principle.png)
 
+
 ---
+
+
 ![Fairphone_5_Repairindex.png](./pics/Fairphone_5_Repairindex.png)
 
 ---
@@ -408,12 +462,15 @@
 
 ---
 
-# Please help !
+# Conclusion
 
-## Engage !
+--- 
+
+# Please help !
 
 ## Visit a Repair-Cafe
 
+## Engage !
 
 ---
 
@@ -445,45 +502,5 @@
 ### The END 
 
 ![Jogi](yogi_bear-head.jpg)
-
----
-
-
----
-
-
-![Blog-post-on-Smartphones.png](./pics/Blog-post-on-Smartphones.png)
-
----
-
-![DetailsRepairing_III.jpg](./pics/DetailsRepairing_III.jpg)
-
----
-
-![DetailsRepairing_II.jpg](./pics/DetailsRepairing_II.jpg)
-
----
-
-![DetailsRepairing_I.jpg](./pics/DetailsRepairing_I.jpg)
-
-
----
-
-![RC_Brunnen_Thinking_II.jpg](./pics/RC_Brunnen_Thinking_II.jpg)
-
----
-
-![RC_Brunnen_Thinking.jpg](./pics/RC_Brunnen_Thinking.jpg)
-
----
-
-
-![RemoteControl_III.jpg](./pics/RemoteControl_III.jpg)
-
----
-
-![RemoteControl_II.jpg](./pics/RemoteControl_II.jpg)
-
----
 
 
