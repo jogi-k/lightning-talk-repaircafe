@@ -1,4 +1,4 @@
-## what is a Repaircafe  
+## What is a Repaircafe ?
 
 
 ---
@@ -465,11 +465,13 @@
 
 # Conclusion
 
---- 
+---
 
 # Please help !
 
 ## Visit a Repair-Cafe
+
+## Watch it.
 
 ## Engage !
 
