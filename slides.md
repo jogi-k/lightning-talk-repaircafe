@@ -1,5 +1,7 @@
 ## What is a Repaircafe ?
 
+#### Lightning Talk 
+##### 2025-02-04
 
 ---
 
