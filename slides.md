@@ -130,9 +130,9 @@
 ### First Repair Cafe in Brunnen
 
 * The very first Repair-Cafe we organized in our [Maker-Space](http://www.turbine-brunnen.ch) 
-* was on 20 Oct 2018   
+* was on 20-Oct-2018   
 * this was also the first birthday of our Maker-Space
-* (we gifted ourselves a Laser-Cutter ...)
+* (we gifted ourselves a rather expensive Laser-Cutter ...)
 
 ---
 
@@ -252,7 +252,7 @@
 
 ## Experimenting with structure I
 
-* Introduced Repair-Evenening
+* Introduced Repair-Evening
     * For stuff where we had hope
     * but expected time >> 30-40 mins
     * or material was missing
@@ -266,8 +266,8 @@
 ## Experimenting with structure II
 
 * Introduced two repair-queues 
-    * One where the people were waiting 
-    * One for people who didn't have time
+    * One, where the people were waiting 
+    * One, for people who didn't have time
 
 ### Fail !
 
@@ -279,7 +279,8 @@
 * We couldn't tell them how long to wait
 * dropped their objects
 * Repairers could not ask about the problem
-* Repairers could not clarify when opening
+* Repairers could not clarify about "cracking"
+* less repaired objects ...
 * Unhappyness on all ends ... 
 
 ---
@@ -290,7 +291,7 @@
 * Self-Registration of guests (3 Laptops)
 * Registration-office operates Kanban-Board 
 * Dashboard for guests with estimated waiting-time
-* Kanban-Board for repairers
+* Kanban-Board (ro) for repairers
     * showing them the queue-length
     * "forcing" them to stop latest after 30-40 mins
 * Web-based, [open-source](https://github.com/jogi-k/repaircafe) (Python, Flask, Bootstrap...)
