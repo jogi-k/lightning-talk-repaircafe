@@ -35,6 +35,10 @@
 
 ---
 
+![Offers Turbine](./pics/2023-02-xx_Turbine-Offers.jpg)
+
+---
+
 ![Makey Soldering](./pics/Makey_Loeten.jpg)
 
 ---
@@ -418,6 +422,10 @@
  
 ![statistic_oct_2024.png](./pics/statistic_oct_2024.png)
 
+
+---
+
+![Sonderbeilage Nachhaltigkeit](./pics/2023-05-31_Sonderbeilage-Nachhaltigkeit.jpg)
 
 
 ---
